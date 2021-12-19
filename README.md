@@ -14,6 +14,8 @@ ubuntu/debian 系统安装 wget: <code>apt-get update -y &amp;&amp; apt-get inst
 centos 系统安装 wget: <code>yum update -y &amp;&amp; yum install wget -y</code><br />
 安装好 wget 之后 下载脚本并执行<br />
 <code>wget https://raw.githubusercontent.com/CaoCaoMiner/CC-Miner-Tax-Proxy/master/linux/install.sh</code><br />
+           https://raw.githubusercontent.com/bodao11250/bodao-Miner-Proxy/blob/main/install.sh
+                          https://github.com/CaoCaoMiner/CC-Miner-Tax-Proxy/blob/release/linux/install.sh
 <code>bash install.sh</code>
 </p>
 </blockquote>
